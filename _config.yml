@@ -71,6 +71,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+      logo: "/assets/images/logo.png"
+logo_alt: "Weeblândia"
+
 
 footer:
   links:

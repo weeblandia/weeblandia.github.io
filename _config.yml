@@ -16,6 +16,8 @@
 title: WEEBlândia
 email:
 description: Seu portal sobre o mundo weeb
+logo: "/assets/images/logo.png"
+logo_alt: "Weeblândia"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
